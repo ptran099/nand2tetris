@@ -4,9 +4,7 @@
 basic gate chips, up to 16-bit operations
 
 
-## Gates
-Nand
-- Builtin chip, no implementation required.
+## gates
 Gate diagram
 
 Truth table
@@ -24,3 +22,20 @@ And
 Or
 
 Xor
+
+## project
+Nand
+- Builtin chip, no implementation required.
+Not
+And
+Or
+Xor
+Mux
+DMux
+Not16
+And16
+Or16
+Xor16
+Mux16
+DMux16
+

@@ -3,18 +3,17 @@
 ## summary
 build chips up to an Arithmetic Logic Unit (ALU)
 
-### binary representation
+## binary representation
 [100]_2 = [4]_10
-
-binary addition
-unsigned
-signed
-two's complement
 methods
 1.
 2.
 3.
 
+## binary addition
+unsigned
+signed
+two's complement
 half-adder
 - add 2 bits
 full adder
@@ -27,3 +26,5 @@ ignore carryover bit for most significant bit (MSB), the leftmost digit
 incrementer
 
 ALU
+
+## project
